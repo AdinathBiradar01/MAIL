@@ -5,7 +5,7 @@ const transporter = nodemailer.createTransport({
   service: 'yahoo', // Use a service like 'hotmail', 'yahoo', etc.
   auth: {
     user: 'biradaradinath2gmail.com',  // Your email address
-    pass: 'amqnfyifcxmzwfhm'    // Your email password or app-specific password
+    pass: 'amqnfyifcxmzadbc'    // Your email password or app-specific password
   }
 });
 
